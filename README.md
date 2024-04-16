@@ -1,1 +1,2 @@
 # Web-Scrapping-GDP-Data-Extraction-
+Sebuah perusahaan internasional yang ingin memperluas bisnisnya ke berbagai negara di seluruh dunia telah merekrutmu. Kamu telah dipekerjakan sebagai Data Engineer junior dan ditugaskan untuk membuat skrip yang dapat mengekstrak daftar 10 ekonomi terbesar di dunia dalam urutan turun berdasarkan GDP mereka dalam miliar USD (dibulatkan menjadi 2 angka desimal), seperti yang dicatat oleh Dana Moneter Internasional (IMF).
